@@ -25,6 +25,7 @@ This model helps financial institutions assess creditworthiness using behavioral
 
 ### 🧹 Cleaned the dataset by checking for missing values and exploring class distributions of credit scores.
 
+
 ### 🔍 Exploratory Data Analysis (EDA):
 
 Explored impact of features like Occupation, Annual Income, Monthly Inhand Salary, Bank Accounts, Credit Cards, etc., on credit scores using plotly.express.box visualizations.
@@ -54,3 +55,5 @@ Split the dataset into training and testing using train_test_split.
 Took real-time input for features like income, loans, delays, and used the trained model to predict the credit score category.
 
 # Output
+
+<img width="482" height="86" alt="OUTPUT1" src="https://github.com/user-attachments/assets/1c7c6c3d-5fb3-44f8-bee4-02ec5e33a6b5" />
