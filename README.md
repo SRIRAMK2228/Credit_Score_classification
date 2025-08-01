@@ -1,6 +1,7 @@
 # Credit_Score_classification
 
-![Credit_Score_classification-Examples-1024x430](https://images.app.goo.gl/zd4Yzrj9hHYcpQoH7)
+![Credit_Score_classification-Examples-1024x430]([https://images.app.goo.gl/zd4Yzrj9hHYcpQoH7](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*UDi7KpyFX8gwV1k7aeMS-g.jpeg))
+
 Tools used🛠: Python, Machine Learning, Scikit-learn, Plotly
 
 # 🎯Objective
